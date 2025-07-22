@@ -1,8 +1,3 @@
-Here’s a polished and professional `README.md` content for your GitHub project based on the HR Dashboard and data you've shared:
-
----
-
-````markdown
 # 📊 HR Dataset Analysis & Power BI Dashboard
 
 This project focuses on analyzing an HR dataset and presenting the insights through an interactive **Power BI dashboard**. It highlights employee demographics, departmental performance, attrition trends, satisfaction levels, and more — to support strategic decision-making in HR management.
@@ -113,24 +108,10 @@ Contributions are welcome! Feel free to:
 ## 📧 Contact
 
 **Your Name**
-📩 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+ADARSH WAHEWAL
+📩 [your.email@example.com](wahewaladarsh8487@gmail.com)
+🔗 [LinkedIn](www.linkedin.com/in/adarshwahewal)
 
----
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
-```
-
----
-
-### ✅ Next Steps for You
-
-- Replace placeholder info (name, email, LinkedIn, repo link)
-- Upload `.pbix`, `.csv` files to the repo
-- Optionally, include `LICENSE`, `.gitignore`, and sample dataset
-
-Let me know if you also want a 1-line summary for your **portfolio website**, **LinkedIn**, or **resume**.
-```
